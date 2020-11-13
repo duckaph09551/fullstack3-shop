@@ -1,4 +1,4 @@
 <?php
 
-echo "đây là trang đăng ký";
+echo "đăng ký";
 ?>
